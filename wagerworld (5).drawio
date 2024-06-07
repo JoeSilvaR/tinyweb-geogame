@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2024-06-07T22:33:04.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="eu9yLbIC2upaTGKBPVPW" version="24.5.2" type="device">
+  <diagram id="9GlW0rV0th_FJuEN7HY5" name="Page-1">
+    <mxGraphModel dx="1002" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tMILWsyV3yBWtg2jaER0-4" value="Sprites (work in progress)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="290" width="475" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="tMILWsyV3yBWtg2jaER0-3" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAeElEQVR42mNgGAWjYBSMglEwCkbBEAX/sWD6Wf7yFxMGpqcj/v+/PQ0D090B2OiREwIwR/zawoRs+f+RkwtA+CkjIxzTyxH/sVmOxRG0cQgsrrFZjuwIqLpRB9An8eFJB3TNfnTPjv8ZRZ+CMTqbbuXAgDuAmsEPACbn7yX1UEFCAAAAAElFTkSuQmCC" parent="1" vertex="1">
+          <mxGeometry x="90" y="240" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tMILWsyV3yBWtg2jaER0-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Wager World&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Wager world the first open world, location based, decentralized, MMO RPG with real betting with wager coins(name should be changed) on things like games. They can also host content for other player like any movies that they have downloaded. &quot;Servers&quot; will be separated by towns and towns will be separated by location.&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="50" width="690" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tMILWsyV3yBWtg2jaER0-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Features&lt;/h1&gt;&lt;div&gt;&amp;nbsp;Players can travel to other towns but it takes a long time(the same amount of time it takes to drive there) and while players are traveling, they are doing work for the network, validating transactions. And they get half of their coins. They can go into mining mode in a town and keep 100% of the coins. Each town has an elected mayor that is in charge of kicking people out. There is a complaint system, where anyone can submit a complaint about anyone and that is tied to the town. If someone has 3 complaints from unique people, they can be kicked out at the mayors discretion. Mayor can be put up for reelection if 10 complaints have been made. Mayor can upload C++ OpenGL games to the game center, where users can bet against each other, movies can be streamed from the mayors computer and viewed in the theatre, twitch style chat will be part of the theatre. Leaderboards for each game as well as swag will all be part of the game that can be created and purchased from other players, should have some mechanics around unique swag and limiting numbers of them.&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="570" y="240" width="230" height="490" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
